@@ -5,16 +5,23 @@ A passionate and enthusiastic fresher diving deep into the world of *AWS and Clo
 
 I'm currently focused on learning and strengthening my skills in:
     * *AWS Services:* EC2, S3, Lambda, IAM, VPC, CloudFormation
+    
     * *Cloud Concepts:* Serverless Architecture, Infrastructure as Code (IaC), Cloud Security Fundamentals
+    
     * *Programming:* Python, JavaScript
+    
     * *Tools:* Git, Docker, Terraform
 
 🚀 What I'm Looking For
 
  I'm actively looking to collaborate on exciting projects related to:
+ 
     * Building cloud-native applications
+    
     * Automating infrastructure and deployments on AWS
+    
     * Exploring new AWS services and best practices
+    
     * Open-source contributions
       
 📫 How to Reach Me
