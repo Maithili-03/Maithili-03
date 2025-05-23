@@ -2,6 +2,7 @@ Hi there! I'm Maithili 👋
 A passionate and enthusiastic fresher diving deep into the world of *AWS and Cloud technologies*.
 
 📚 What I'm Learning & My Interests
+
 I'm currently focused on learning and strengthening my skills in:
     * *AWS Services:* EC2, S3, Lambda, IAM, VPC, CloudFormation
     * *Cloud Concepts:* Serverless Architecture, Infrastructure as Code (IaC), Cloud Security Fundamentals
@@ -9,6 +10,7 @@ I'm currently focused on learning and strengthening my skills in:
     * *Tools:* Git, Docker, Terraform
 
 🚀 What I'm Looking For
+
  I'm actively looking to collaborate on exciting projects related to:
     * Building cloud-native applications
     * Automating infrastructure and deployments on AWS
@@ -16,6 +18,7 @@ I'm currently focused on learning and strengthening my skills in:
     * Open-source contributions
       
 📫 How to Reach Me
+
 * *LinkedIn:* https://www.linkedin.com/in/maithili-kakde-5715671b5
 * *Email:* maithilikakde962@gmail.com
 * *GitHub:* @Maithili (you're already here!)
